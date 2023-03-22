@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Glover Saunders</h1>
-<h3 align="center">I'm an aspiring software engineer trying to make a difference, one line at a time.</h3>
+<h3 align="center">I'm an enthusiastic software engineer trying to make a difference, one line at a time.</h3>
 
 - 🔭 I’m currently working on **Practicum Software Engineering Bootcamp**
 
