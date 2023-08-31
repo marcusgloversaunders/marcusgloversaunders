@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Glover Saunders</h1>
+<h1 align="center">Hi 👋, my name is Marcus Glover Saunders</h1>
 <h3 align="center">I'm an enthusiastic software engineer trying to make a difference, one line at a time.</h3>
 
 - 🔭 I’m currently working on **Codecademy Full-Stack Engineer and B.S. in Information Technology**
