@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcus Glover Saunders</h1>
 <h3 align="center">I'm an enthusiastic software engineer trying to make a difference, one line at a time.</h3>
 
-- 🔭 I’m currently working on **Practicum Software Engineering Bootcamp**
+- 🔭 I’m currently working on **Codecademy Full-Stack Engineer**
 
-- 🌱 I’m currently learning **JavaScript, React.js, HTML5, Git, GitHub, NPM, Webpack, Babel, REST API, Node.js, CSS3, Google Cloud, MongoDB**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js, Express.js, PostgreSQL, and Rest API**
 
 - 📫 How to reach me **marcusgloversaunders@gmail.com**
 
